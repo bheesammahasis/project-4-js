@@ -171,3 +171,98 @@ body{
     right: 10px;
     color: #CB52F8;
 }
+/*for page 5 css styling*/
+.container4{
+    height: 80px;
+    width: 280px;
+    border-radius: 5px;
+    background-color: white;
+    position: absolute;
+    top: 130px;
+    left: 80px;
+    text-align: center;
+    padding-top: 10px;
+
+}
+.container5{
+    height: 10px;
+    width: 480px;
+    border-radius: 2%;
+    background-color:#3D087B;
+    position: absolute;
+    top: 220px;
+    left: 140px;
+}
+.container6{
+    height: 145px;
+    width: 240px;
+    border-radius: 5px;
+    background-color: white;
+    padding-left: 10px;
+    position: absolute;
+    top: 380px;
+    left:80px ;
+}
+p:hover{
+    background-color: skyblue;
+}
+.container7{
+    height: 145px;
+    width: 240px;
+    border-radius: 5px;
+    background-color:#3D087B;
+    padding-left: 10px;
+    position: absolute;
+    top: 540px;
+    left:70px ;
+}
+.p1{
+    background-color: skyblue;
+    color:blueviolet;
+    border-radius: 1px;
+    padding-left: 10px;
+
+}
+.container8{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.i3{
+    position: relative;
+    top: 20px;
+   left: 10px;
+    width:470px;
+    height: 350px;
+    margin-right: 70px;
+}
+.i4{
+    position: absolute;
+    top: 340px;
+   left: 10px;
+    width:470px;
+    height: 350px;
+    margin-right: 70px;
+}
+.i5{
+    position: absolute;
+    top: 690px;
+   left: 10px;
+    width:470px;
+    height: 350px;
+    margin-right: 70px;
+}
+.i6{
+    position: absolute;
+    top: 1060px;
+   left: 10px;
+    width:470px;
+    height: 350px;
+    margin-right: 70px;
+}
+
+
+
+
+

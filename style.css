@@ -46,6 +46,18 @@ body{
     top: 20px;
     right: 80px;
 }
+#time0 {
+    font-size: 30px;
+    width: 200px;
+    margin: 40px;
+    margin-left: 60px;
+    text-align:center;
+    border: 1px solid white;
+    border-radius: 20px;
+    color: #8A11BF;
+    letter-spacing: 5px;
+   
+}
 .S0{
     background-color: azure;
 }

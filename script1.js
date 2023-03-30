@@ -54,7 +54,7 @@ setInterval(showTime, 1000);
 			let time1b = document.getElementById("time2").value ;
 			let time1c = document.getElementById("time3").value ;
 			let time1d = document.getElementById("time4").value ;
-			let image = document.querySelector('.i2');
+			//let image = document.querySelector('.i2');
 			console.log(hour,time1a,time1b,time1c,time1d);
 			if(hour===parseInt(time1a)){
 				console.log(hour,time1a);

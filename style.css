@@ -47,7 +47,7 @@ body{
     right: 80px;
 }
 #time0 {
-    font-size: 30px;
+    font-size: 35px;
     width: 200px;
     margin: 40px;
     margin-left: 60px;
@@ -286,6 +286,9 @@ p:hover{
         position:relative;
         top: 30px;
     
+    }
+    #time0 {
+        font-size: 15px;
     }
     .item1{
         display:block;

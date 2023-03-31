@@ -44,7 +44,7 @@ setInterval(showTime, 1000);
 				console.log(hour,time1a);
 				document.getElementById("i7").innerText="GOOD MORNING!! WAKE UP!!";
 			document.getElementById("imgi5").src="Group 5183.svg";
-			document.getElementById("i9").innerText="Wake Up Time:5AM-8AM;Lunch Time:default;Nap Time:default;Night Time:default";
+			document.getElementById("i9").innerText="Wake Up Time:5AM-8AM;LunchTime:default;NapTime:default;Night Time:default"
 			document.getElementById("i4").innerText="GRAB SOME HEALTHY BREAKFAST!!";
 			}
 			else if(hour===parseInt(time1b)){
@@ -58,7 +58,7 @@ setInterval(showTime, 1000);
 				console.log(hour,time1c);
 				document.getElementById("i7").innerText="GOOD EVENING!!";
 				document.getElementById("imgi5").src="Glunch_image.png";
-				document.getElementById("i9").innerText="Wake Up Time:default ;Lunch Time:default;Nap Time:5PM-9PM;Night Time:default";
+				document.getElementById("i9").innerText="Wake Up Time:default;Lunch Time:default;Nap Time:5PM-9PM;Night Time:default";
 				document.getElementById("i4").innerText="STOP YAWNING, GET SOME TEA...ITS JUST EVENING TIME";
 			}
 			else if(hour===parseInt(time1d)){
@@ -66,7 +66,7 @@ setInterval(showTime, 1000);
 				document.getElementById("i7").innerText="GOOD NIGHT!!";
 				document.getElementById("imgi5").src="Group 5194.svg";
 				document.getElementById("i9").innerText="Wake Up Time:default ;Lunch Time:default;Nap Time:default;Night Time:9PM-5AM";
-				document.getElementById("i4").innerTextL="CLOSE YOUR EYES AND GOTO SLEEP";
+				document.getElementById("i4").innerText="CLOSE YOUR EYES AND GOTO SLEEP";
 			}
 }
         

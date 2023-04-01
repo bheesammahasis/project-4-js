@@ -47,15 +47,17 @@ body{
     right: 80px;
 }
 #time0 {
-    font-size: 35px;
+    font-size: 40px;
     width: 200px;
-    margin: 40px;
-    margin-left: 60px;
+    margin: 0px;
+    margin-right:0px;
     text-align:center;
     border: 1px solid white;
     border-radius: 20px;
     color: #8A11BF;
     letter-spacing: 5px;
+    position: relative;
+    right: 60px;
    
 }
 .S0{
